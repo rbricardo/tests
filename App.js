@@ -13,8 +13,8 @@ import {
 export default class App extends Component {
 
   state = {
-    a: '',
-    b: '',
+    a: 'aa',
+    b: 'aaa',
     pessoas: [
       {nome: 'rick', idade: 18},
       {nome: 'vitor', idade: 17},
